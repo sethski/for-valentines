@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-family: "Protest Riot", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 3;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Increase base font-size so Tailwind rem utilities render larger by default.
+   Adjust value (e.g. 18px, 20px) to taste. */
+/* Force a larger base font-size so Tailwind rem utilities render bigger. */
+html {
+  font-size: 40px !important;
+}
+body {
+  background: url("./assets/bg1.webp");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+html { font-size: 30px; } /* try 18px or 20px, adjust to taste */
