@@ -1,4 +1,6 @@
-### Hi there 👋
+THIS IS OPEN FOR EVERYONE, ESPECIALLY FOR FILIPINOS OUT THERE
+
+HAPPY VALENTINES GUYS
 
 <!--
 **sethski/sethski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
