@@ -57,7 +57,7 @@ export default function Page() {
             src="https://media1.tenor.com/m/p8DEQ060yyMAAAAC/please-let-me-post-this-valentine%27s-day.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Will you be my Valentine? 💘
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
@@ -86,8 +86,9 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
-      target="__blank"
+      href="https://github.com/sethski/for-valentines"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Made with{" "}
       <span role="img" aria-label="heart">
